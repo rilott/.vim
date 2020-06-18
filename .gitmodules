@@ -1,0 +1,12 @@
+[submodule "pack/rilott/start/vim-airline"]
+	path = pack/rilott/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/rilott/start/vim-syntastic"]
+	path = pack/rilott/start/vim-syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/rilott/start/fzf"]
+	path = pack/rilott/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "pack/rilott/start/ale"]
+	path = pack/rilott/start/ale
+	url = https://github.com/dense-analysis/ale
