@@ -10,3 +10,6 @@
 [submodule "pack/rilott/start/ale"]
 	path = pack/rilott/start/ale
 	url = https://github.com/dense-analysis/ale
+[submodule "pack/rilott/start/vim-puppet"]
+	path = pack/rilott/start/vim-puppet
+	url = https://github.com/rodjek/vim-puppet.git
